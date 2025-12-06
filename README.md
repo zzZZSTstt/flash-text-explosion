@@ -1,5 +1,9 @@
 # Flash Text Explosion
-一款炫酷的Android文字爆闪特效应用，支持自定义文字、颜色、速度和エクスプロージョン……
+### 一款安卓平台的文字爆闪应用，支持自定义文字、颜色、速度和エクスプロージョン……
+![展示](assets/images/main_ui.png)
+
+- 这里展示惠惠（めぐみん）仅为对角色的喜爱，从而选其为“代言人”，而非商业用途，若侵权请联系删除！
+- Here, Megumin (めぐみん) is featured as a "representative" solely out of love for the character, not for commercial purposes. Should any infringement occur, please contact us for removal immediately!
 
 ## 功能亮点
 ### 基础文字自定义：
