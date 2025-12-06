@@ -4,6 +4,7 @@
 
 - 这里展示惠惠（めぐみん）仅为对角色的喜爱，从而选其为“代言人”，而非商业用途，若侵权请联系删除！
 - Here, Megumin (めぐみん) is featured as a "representative" solely out of love for the character, not for commercial purposes. Should any infringement occur, please contact us for removal immediately!
+- ここでめぐみん（Megumin）を掲載しているのは、キャラクターへの愛情からのみ「イメージキャラクター」として選んだもので、営利目的ではありません。万一著作権侵害に該当する場合、速やかに連絡して削除をお願いします！
 
 ## 功能亮点
 ### 基础文字自定义：
