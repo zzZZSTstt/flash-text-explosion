@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">爆裂魔法</string>
+    <string name="default_text">Ciallo～(∠・ω&lt; )⌒★</string>
+    <string name="font_size_format">%dsp</string>
+    <string name="flash_speed_form9at">%dms</string>
+    <string name="choose_font_color">选择字体颜色</string>
+    <string name="choose_bg_color">选择背景颜色</string>
+    <string name="choose_flash_colors">选择爆闪颜色</string>
+    <string name="color_black">黑色</string>
+    <string name="color_white">白色</string>
+    <string name="color_red">红色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="color_yellow">黄色</string>
+    <string name="color_purple">紫色</string>
+    <string name="color_cyan">青色</string>
+    <string name="color_orange">橙色</string>
+    <string name="confirm">确定</string>
+    <string name="menu">菜单</string>
+    <string name="input_hint">输入自定义文字</string>
+    <string name="font_size_label">字体大小</string>
+    <string name="initial_font_size">48sp</string>
+    <string name="font_color_button">字体颜色</string>
+    <string name="bg_color_button">背景颜色</string>
+    <string name="flash_off">爆闪关</string>
+    <string name="flash_on">爆闪开</string>
+    <string name="select_flash_colors">选爆闪色</string>
+    <string name="explosion_mode">「エクスプロージョン」</string>
+    <string name="flash_speed_label">爆闪速度</string>
+    <string name="initial_flash_speed">300ms</string>
+    <string name="flash_speed_format">%dms</string>
+</resources>
