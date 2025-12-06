@@ -53,7 +53,7 @@
 
 
 ## 核心资源说明
-- 音频文件：res/raw/explosion_sound.mp3（爆炸模式音效，需确保文件存在）
+- 音频文件：res/raw/explosion_sound.mp3（エクスプロージョン模式的BGM，需确保文件存在）
 - 布局文件：res/layout/activity_main.xml（核心UI布局，基于RelativeLayout+LinearLayout实现）
 - 样式资源：res/drawable/（按钮圆角样式，需补充对应xml文件）
 - 字符串资源：res/values/strings.xml（需补充以下核心字符串）：
