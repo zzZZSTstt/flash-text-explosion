@@ -6,6 +6,7 @@
 - Here, Megumin (めぐみん) is featured as a "representative" solely out of love for the character, not for commercial purposes. Should any infringement occur, please contact us for removal immediately!
 - ここでめぐみん（Megumin）を掲載しているのは、キャラクターへの愛情からのみ「イメージキャラクター」として選んだもので、営利目的ではありません。万一著作権侵害に該当する場合、速やかに連絡して削除をお願いします！
 
+
 ## 功能亮点
 ### 基础文字自定义：
 - 输入任意文字，调整字体大小（12-120sp）、字体颜色、背景颜色
@@ -20,11 +21,13 @@
    - 完整的日志输出，便于调试
    - 资源优化：音频预加载、资源自动释放，避免内存泄漏
 
+
 ## 运行环境
 - Android Studio Flamingo | 2022.2.1 及以上
 - Min SDK：API 24 (Android 7.0)
 - Target SDK：API 34 (Android 14)
 - 语言：Kotlin (兼容Java)
+
 
 ## 使用说明
 ### 编译运行：
@@ -47,6 +50,7 @@
 
 ### エクスプロージョン：
 - 点击エクスプロージョン
+
 
 ## 核心资源说明
 - 音频文件：res/raw/explosion_sound.mp3（爆炸模式音效，需确保文件存在）
@@ -88,6 +92,7 @@
     <string name="flash_speed_format">%dms</string>
 </resources>
 ```
+
 ## 注意事项
 - 爆炸模式闪屏速度较快，光敏性癫痫患者请勿使用
 - 确保res/raw/explosion_sound.mp3音频文件存在，否则音效功能无法使用
